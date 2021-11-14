@@ -5,8 +5,3 @@
 - 🎧🎤Podcast: "Bajando Data" (available on Spotify and Youtube)
 
 
-
-Badges
-
-Programming Languages
-![jscript](https://user-images.githubusercontent.com/84105167/141686669-54553a31-5223-4ca4-8588-5075d6859e0e.jpg)
