@@ -5,4 +5,4 @@
 - 🎧🎤Podcast: "Bajando Data" (available on Spotify and Youtube)
 ------------------------------------------------
 Tech & Tools :
-HTML5 CSS3 SASS JAVASCRIPT REACT GIT GITHUB VISUALSTUDIO BOOTSTRAP
+HTML5 ,CSS3 ,JAVASCRIPT, TAILWIND, GIT, GITHUB, VISUALSTUDIO & BOOTSTRAP
