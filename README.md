@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan.
-- 🌱 I’m currently learning the skills to be a complete Frontend developer, and in the future be a Fullstack dev.
+- 🌱 I’m currently learning the skills to be a complete Fullstack dev.
 - 🔨 I’m up to collaborate on any project to gain experience(related to my goals), and meet creative people who like to work as a team.
 - 📫 How to reach me? Linkedin/Juan olima. <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg />
 - 🎧🎤Podcast: "Bajando Data" (available on Spotify and Youtube)
