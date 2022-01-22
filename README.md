@@ -4,7 +4,7 @@
 - 📫 How to reach me? Linkedin/Juan olima. <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg />
 - 🎧🎤Podcast: "Bajando Data" (available on Spotify and Youtube)
 ------------------------------------------------
-
+  ![](https://komarev.com/ghpvc/?username=olimajs&color=blue)
 <div style = "display: inline_block">Tech & Tools : <br>
   <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="juan-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -36,4 +36,4 @@
 
   
   <img align="center" alt="cat-coder" height="150" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-        
+
