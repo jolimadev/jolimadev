@@ -34,7 +34,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olimajs&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olimajs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <img align="center" alt="cat-coder" height="150" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
