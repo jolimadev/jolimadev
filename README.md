@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Juan.
 - 🌱 I’m currently learning the skills to be a complete Fullstack dev.
 - 🔨 I’m up to collaborate on any project to gain experience(related to my goals), and meet creative people who like to work as a team.
-- 💻 <a href="https://olimajs.github.io/Portfolio/">Portfolio</a>
+- 💻 <a href="https://jolimadev.com/">Portfolio</a>
 - 📫 How to reach me? Linkedin/Juan olima. <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg />
 - 🎧🎤Podcast: "Bajando Data" (available on Spotify and Youtube)
 ------------------------------------------------
