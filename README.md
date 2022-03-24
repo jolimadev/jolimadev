@@ -30,6 +30,9 @@
  <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   
   <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
+  <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+
 
   </div> <br>
 
