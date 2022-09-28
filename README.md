@@ -35,8 +35,11 @@
   <img align="center" alt="juan-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
 
-  </div> <br>
+
+![032768d5c83f43ff18687087ccd91607](https://user-images.githubusercontent.com/84105167/192864184-6296bd93-989c-46ee-950a-876b8b56373a.jpg)
+
+
+  </div> 
 
   
-  <img align="center" alt="cat-coder" height="150" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 
