@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Juan.
 - 🌱 I’m working as a Frontend Developer, and currently learning the skills to be a complete Fullstack dev too.
 - 🔨 I’m up to collaborate on any project to gain experience(related to my goals), and meet creative people who like to work as a team.
-- 💻 <a href="https://jolimadev.com/">Portfolio</a>
+- 💻 <a href="https://jolimadev.netlify.app/">Portfolio</a>
 - 📫 How to reach me? Linkedin/Juan olima.  <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg> <a href="https://jolimadev.com/"> 
 
 ------------------------------------------------
