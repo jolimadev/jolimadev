@@ -1,4 +1,4 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+stranger👋;Welcome+to+my+profile😎;I'm+a+FrontEnd+Developer🛸)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+stranger👋;Welcome+to+my+profile😎;I'm+a+Web+and+Mobile+Developer🛸)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Juan.
 - 🌱 I’m currently working as a Mobile Developer, and constantly learning the skills to be a complete Fullstack dev too.
